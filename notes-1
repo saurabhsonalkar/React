@@ -1,0 +1,73 @@
+# React Roadmap: 1. core of react(State or UI manioulation, JSX)
+                 2.compoment reusability
+                 3.reusing of component (props)
+                 4. how to propogate change (hooks- useSatehooks,useEffecthooks)
+
+                 Additional topics
+                 1. Router (react don't have router)
+                 2. State Management (reac doesn't have state management)
+                    --> Redux, redux toolkit, zustand, context API
+                 3. class based component
+                    --> legacy code
+                 4. BAAS Apps
+                      --> Social media clone, ecommerce App
+
+                After React
+                1. React is not a complete solution in most case
+                --> no so, browser render of Js , no routing
+                2. framework
+                --> Next JS, Gotsby, Remix
+
+
+# Why to learn React?
+--> Hype, job, trend, build UI
+--> Makes easy to manage & build complete frontend
+
+# When should I learn React?
+--> After mastering JS
+--> most project don't need react in initial phase
+
+# Why react was created?
+--> Ghost message problem
+--> State -> JS & UI -> DOM
+--> resolve sync and communication problem between State and UI
+
+# Don't learn react if:
+--> you don't know how below concepts working:
+    1. Internal JS
+    2. DOM
+    3. Global context
+    4. Execution context
+    5. bind method
+    6. this method
+    7. single thread 
+
+# React learning proces --> 1.Go in depth: Babel, fiber, virtual dom, diff algo, hydration, tree shaking
+
+2. By making projects(one topic at a time): Todo, calculator, github API
+
+
+roadmap.io
+
+# authentification vs authorization
+
+# react is library?
+--> framework vs library
+
+npm--> node package maneger
+npx--> node package executor
+
+# bundler: bundler create magic behind the scence (make syntax easy and suitable ---> parsing the syntax to make tree)
+
+# {username} --> evaluated js expression
+ {if(true){}} --> we can't write like that it must be final outcome.
+
+* react reacts on variable updation that is why its known as react.
+
+# vabel is used instead of imorting react
+
+
+# Fiber functionality: 1. Pause work & come back to it later
+2. assign priority to different types of work
+3. reuse previously completed work
+4. about work if it's no longer needed 
